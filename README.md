@@ -32,8 +32,6 @@ sh install.sh
 - [XCode](https://developer.apple.com/xcode/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Sublime Text](https://www.sublimetext.com/)
-- [iTerm2](https://www.iterm2.com/)
-- [Hyper](https://hyper.is/)
 - [Postman](https://www.getpostman.com/)
 - [Docker](https://docs.docker.com/docker-for-mac/install/)
 
@@ -53,8 +51,10 @@ sh install.sh
 - [Flycut (Clipboard manager)](https://apps.apple.com/us/app/flycut-clipboard-manager/id442160987?mt=12)
 - [Station](https://getstation.com)
 - [1Password](https://1password.com/)
-- [Next Meeting](https://itunes.apple.com/us/app/next-meeting/id1017470484?mt=12)
 - [Todoist](https://todoist.com/downloads/mac)
-- [Google Keep Desktop](https://github.com/andrepolischuk/keep)
 
 </details>
+
+## Github SSH configuration
+- [Generate new ssh key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#generating-a-new-ssh-key)
+- [Adding new ssh key to github](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account)
