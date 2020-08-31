@@ -26,6 +26,8 @@ PACKAGES=(
 	wget
     yarn
     composer
+    fastlane
+    carthage
 )
 eval "brew install ${PACKAGES[@]}"
 

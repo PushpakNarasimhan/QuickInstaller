@@ -23,6 +23,9 @@ sh install.sh
 <details>
 <summary>CLI Tools & Utilities</summary>
 
+- [Fastlane](https://fastlane.tools/)
+- [Carthage](https://github.com/Carthage/Carthage/)
+- [Cocoapods](https://cocoapods.org/)
 
 </details>
 

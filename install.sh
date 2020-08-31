@@ -36,6 +36,7 @@ printf "\n${BLUE}Opening links for apps to download...${NORMAL}\n"
 eval "open https://www.google.com/chrome/"
 
 # CLI Tools & Utilities
+eval "open https://cocoapods.org/"
 
 # Productivity
 eval "open https://apps.apple.com/us/app/flycut-clipboard-manager/id442160987?mt=12"
