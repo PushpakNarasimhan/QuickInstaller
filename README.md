@@ -1,5 +1,5 @@
 # QuickInstaller
-To make life easier when setting up a new computer
+To make life easier when setting up a new mac
 
 ## Install
 
