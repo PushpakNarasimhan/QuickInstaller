@@ -55,6 +55,7 @@ sh install.sh
 - [Station](https://getstation.com)
 - [1Password](https://1password.com/)
 - [Todoist](https://todoist.com/downloads/mac)
+- [Slack](https://slack.com/intl/en-in/downloads/mac)
 
 </details>
 

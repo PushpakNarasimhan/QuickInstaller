@@ -43,6 +43,7 @@ eval "open https://apps.apple.com/us/app/flycut-clipboard-manager/id442160987?mt
 eval "open https://getstation.com"
 eval "open https://1password.com/downloads/mac/"
 eval "open https://itunes.apple.com/us/app/todoist-organize-your-life/id585829637?mt=12&ign-mpt=uo%3D4"
+eval "open https://itunes.apple.com/app/slack/id803453959?ls=1&mt=12"
 
 # Development
 eval "open https://developer.apple.com/xcode/"
