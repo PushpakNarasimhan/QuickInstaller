@@ -52,7 +52,6 @@ sh install.sh
 <summary>Productivity</summary>
 
 - [Flycut (Clipboard manager)](https://apps.apple.com/us/app/flycut-clipboard-manager/id442160987?mt=12)
-- [Station](https://getstation.com)
 - [1Password](https://1password.com/)
 - [Todoist](https://todoist.com/downloads/mac)
 - [Slack](https://slack.com/intl/en-in/downloads/mac)
